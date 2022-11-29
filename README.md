@@ -51,7 +51,7 @@ Read [this](https://telegram.dog/Logeshps_bot2) before you start messing up with
 
 ## Deploy
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Greymattersbot/Advance-EvaMaria&branch=koyeb&name=urlshortautofilterbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/LPSMOVIES/fghik&branch=main&name=padangalautofilterbot)
 
 
 ## Commands
