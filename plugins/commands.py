@@ -26,7 +26,7 @@ async def start(client, message):
                 InlineKeyboardButton('⚡ Request', url='https://t.me/padangalrequest')
             ],
             [
-                InlineKeyboardButton('ℹ️ 𝙷𝚎𝚕𝚙', url=f"https://telegram.me/{temp.U_NAME}?start=help"),
+                InlineKeyboardButton('ℹ️ 𝙷𝚎𝚕𝚙', url=f"https://t.me/{temp.U_NAME}?start=help"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
